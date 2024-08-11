@@ -1,6 +1,6 @@
 # FPGA-BASED-BRAIN-TUMOR-CLASSIFICATION-WITH-CLIENT-SERVER-ARCHITECTURE
 
-This project features an advanced brain tumor classification system leveraging FPGA technology and a client-server architecture. The system is designed to perform real-time classification of brain tumors into four categories: Glioma Tumor, Pituitary Tumor, Meningioma Tumor, and No Tumor. By combining the computational power of FPGAs with a distributed client-server model, the solution provides rapid and accurate analysis of medical images, enhancing the diagnostic process in clinical environments.
+This project features an advanced brain tumor classification system leveraging FPGA technology(Kria KR260 board) and a client-server architecture(Streamlit). The system is designed to perform real-time classification of brain tumors into four categories: Glioma Tumor, Pituitary Tumor, Meningioma Tumor, and No Tumor. By combining the computational power of FPGAs with a distributed client-server model, the solution provides rapid and accurate analysis of medical images, enhancing the diagnostic process in clinical environments.
 
 KEY FEATURES:
 
