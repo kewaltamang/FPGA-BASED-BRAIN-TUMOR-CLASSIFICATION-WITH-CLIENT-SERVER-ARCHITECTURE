@@ -30,4 +30,6 @@ Expansion of the model to include more tumor types and improve classification ac
 Optimization of the client-server communication protocol for faster data exchange and lower latency.
 
 ![Screenshot 2024-06-13 114801](https://github.com/user-attachments/assets/7626195b-68a6-4c14-9d81-dab1e7da478e)
+![20240613_114039](https://github.com/user-attachments/assets/94af0e29-58e7-443a-aff1-6bdf1b8df2b5)
+
 
