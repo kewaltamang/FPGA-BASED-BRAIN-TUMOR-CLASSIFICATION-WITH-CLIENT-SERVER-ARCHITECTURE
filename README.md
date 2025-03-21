@@ -28,3 +28,6 @@ FUTURE ENHANCEMENT:
 Integration of additional FPGA clients for increased processing power and redundancy.
 Expansion of the model to include more tumor types and improve classification accuracy.
 Optimization of the client-server communication protocol for faster data exchange and lower latency.
+
+![Screenshot 2024-06-13 114801](https://github.com/user-attachments/assets/7626195b-68a6-4c14-9d81-dab1e7da478e)
+
